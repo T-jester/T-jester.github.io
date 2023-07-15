@@ -5,19 +5,21 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Kinsta User</title>
-        <!-- CSS: Inside head tag -->
+        <title>Présentattion</title>
+        <!-- CSS: Inside head tag 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
             integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-        <!-- Devicon: Programming languages icons -->
+            -->
+        <!-- Devicon: Programming languages icons 
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+        -->
     </head>
 
     <body>
         <nav class="navbar navbar-dark navbar-expand-lg bg-dark ">
             <div class="container-fluid">
                 <div class="mx-4">
-                    <a class="navbar-brand" href="#">Kinsta User</a>
+                    <a class="navbar-brand" href="#">Un lien cliquable</a>
                 </div>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
@@ -30,7 +32,7 @@
                             <a class="nav-link" href="#">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Reading Log</a>
+                            <a class="nav-link" href="#">Activités</a>
                         </li>
                     </ul>
                 </div>
@@ -44,60 +46,13 @@
                 </div>
                 <div class="col-lg mx-2 align-self-center">
                     <div class="my-3">
-                        <h1 class="text-center">I'm a Kinsta User</h1>
-                        <p>As a passionate software developer, I am deeply enthusiastic about creating and
-                            developing software applications. I am constantly learning and experimenting with new
-                            technologies and approaches, and I have a strong desire to create innovative and effective
-                            solutions to complex problems. I am driven by curiosity and love for problem-solving, and
-                            I
-                            am committed to producing high-quality, well-designed software that meets the needs of
-                            users.
+                        <h1 class="text-center">Présentation</h1>
+                        <p>Je suis un gentil travailleur testant des choses sur cette page autant libre que non professionnelle.
+                            </br> Je tente des choses en découvrant un peu HTML et CSS, pas la peine de s'attarder dessus...
                         </p>
                     </div>
                 </div>
             </div>
-            <div class="my-4">
-                <div class="text-center mb-4">
-                    <h1>My Skills</h1>
-                </div>
-                <div class="row ">
-                    <style>
-                        i {
-                            font-size: 4em;
-                        }
-                    </style>
-                    <!-- Skills -->
-                    <div class="col">
-                        <div class="text-center">
-                            <h4>WordPress</h4>
-                            <i class="devicon-wordpress-plain"></i>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="text-center">
-                            <h4>Django</h4>
-                            <i class="devicon-django-plain"></i>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="text-center">
-                            <h4>Python</h4>
-                            <i class="devicon-python-plain"></i>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="text-center">
-                            <h4>GitHub</h4>
-                            <i class="devicon-github-original"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- JavaScript: Above <body>  -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
-            integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
-            crossorigin="anonymous"></script>
     </body>
 
 </html>
